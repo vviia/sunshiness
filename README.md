@@ -20,6 +20,6 @@ return
 }
 ```
 
-in  ```http://localhost:8080/weather/singapore``` you can chane with what u want
+in  ```http://localhost:8080/weather/singapore``` you can change ```singapore``` with ur city
 
 
